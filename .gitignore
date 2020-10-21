@@ -1,0 +1,4 @@
+figures/*
+cache/*
+*.sublime-project
+*.sublime-workspace
